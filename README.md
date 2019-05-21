@@ -2,283 +2,94 @@
 
 ## Preámbulo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+El negocio de los Sex Shops es que cada vez más rentable, en la actualidad se estima
+que se percibe una  ganancia de 23 600 millones de dólares a nivel mundial.
+Por otro lado, remontando a la historia, el primer sex shop apareció durante la II Guerra Mundial, 
+justo en un momento en el que surgió una nueva necesidad, pues había mujeres que quedaban viudas 
+tras la guerra, o con problemas con sus parejas. Debido al cambio que tenían sus maridos al regresar
+de la guerra, las mujeres sentían que ya no eran las mismas. La necesidad de esas mujeres era tener
+acceso a una educación sexual, labor de la que se encargó la aviadora alemana Beate Uhse-Rotermund. 
+En la actualidad el 60% de las mujeres siguen liderando este rubro, asimismo en América latina los
+sex shop van a la vanguardia del Ecommerce, el comercio electrónico se fortalece cada día  y es parte 
+de esta tendencia. 
 
 ## Introducción
 
 ### “Nuevo portal de e-commerce”
+Actualmente, El Perú es el quinto país más emprendedor en el mundo y ocupa el primer lugar en cuanto 
+al índice de espíritu emprendedor en Latinoamérica con un valor de 0,37 puntos, según el informe del Global 
+Entrepreneurship Monitor (GEM). Dentro de los nuevos emprenderores, presentamos a Leslie Quispe.
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+![Copia de Copia de Leslie Quispe (1)](https://user-images.githubusercontent.com/47748876/58070463-c85a1580-7b5e-11e9-8450-e2adca044fb6.jpg) 
 
-- [Cocina Abierta](https://instagram.com/cocinaabierta.pe)
-- [Sweet little Neia](https://www.facebook.com/sweetlittleneia)
-- [Andi the coach](https://andithecoach.com)
-- [The Planning Co.](https://www.facebook.com/theplanningco/)
-- [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-- [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
+Una mujer joven de 22 años que, a muy corta edad, a los 8 años empezó con un sueño, el cuál es crear una fundación que ayude a niños que son víctimas de violencia. estudiaba por las mañanas y por las tardes trabajaba para lograr
+alcanzar su objetivo, en el proceso entendió que tenía que duplicar sus fuerzas, es por ello que decide a los 11 años dejar la escuela regular para trabajar todo el día y conseguir más dinero a la par continúo estudiando
+pero lo hacia los fines de semana en un colegio no escolarizado. Nuestra emprendedora motivada aún más con la mayoría de edad decide ganar aún más trabajo en dos empresas donde logro juntar más dinero, pero no satisfecha
+entendió que había llegado el momento de hacer crecer todo el dinero ganado con un negocio propio, por lo cual 
+realizo un estudio de mercado de forma empírica, le llamo mucho la atención saber que la venta de juguetes 
+para adultos en los sex shops tenía gran acogida y es así como nace:
 
-Luego de definir con qué miembro trabajarás, debes ayudar a ese emprendimiento
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+[MiPlaza.com](https://www.facebook.com/MiPlaza.com1/)
 
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
+![MIPLAZA,COM123](https://user-images.githubusercontent.com/47748876/58070697-a614c780-7b5f-11e9-9f4e-5946c9b0acf9.png)
 
-## Objetivos de aprendizaje
+Lesli no solo es una emprendedora sino tambien sabe que su producto ofrecido
+tiene que ser innovador y por lo tanto estar acompañado de la tecnologia es por
+ello que en la actualidad se encuentra estudiando desarrollo web a fin de crear
+su propia pagina web y empezar a incrementar sus ventas.
+Es en este punto donde apoyaremos a nuestra cliente a mejorar el portal de ventas, realizando en estudio previo sobre lo que desea nuestra cliente y los 
+usuarios consumidores, en este caso Lesli vende a traves de una pagina en fb
+y por whatsapp, observamos que en la pagina de Fb, tiene mucha informacion interesante pero que se va perdiendo conforme si van aumentado los post sobre los producto, a la vez es dificil encontrar los videos descriptivos sobre el uso de los mismos, al entrevistar a diferentes usuarios, todos concordaban en que lo mas importante para ellos es la discresion, debido a que es un tema tamboo en nuestra sociedad y la mayoria concordo en que desear tener la informacion de los productos mas detallada. Todo lo antes mencionado nos llevo
+a crear una pagina web donde se pueda tener la informacion clasificada, para que sea amigable para los usuarios, sin perder la esencia discreta en todo tiempo, generando una experiencia unica para el usuario al momento de realizar una compra.
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+En las entrevistas los posibles usuarios manifestaron lo siguiente:
+nformación obtenida:
+“Me da un poco de vergüenza”
+“Me da un poco de vergüenza que el repartidor vea lo que he comprado”
+“Se que no es algo malo, pero me da vergüenza”
+“Me da vergüenza entrar a una de esas páginas ”
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+Todos los posibles usuarios concuerdan en que les da verguenza hablar sobre los jueguetes para adultos. Luego se realizo el affinity diagram.
 
-## Tópicos a cubrir
+![20190504_110411](https://user-images.githubusercontent.com/47748876/58078084-84bdd680-7b73-11e9-9ed0-079919df99a2.jpg)
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+Con la información hallada, se procedió a realizar el User Persona
 
-## Consideraciones generales
+                           Prudencia (36 años)
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+![user persona](https://user-images.githubusercontent.com/47748876/58079165-01ea4b00-7b76-11e9-88f6-368a0f33e4fb.png)
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+                                Ama de casa
+                                   Casada
+                                   Comas
+        “Llevo 10 años de casada y quiero reavivar la llama del amor con mi esposo”
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+Prudencia está casada desde hace 10 años, tiene 2 hijos uno de 3 y otro de 5, ama mucho a su esposo y siempre está reinventándose para que el amor se mantenga como el primer día, es por ello que pese a que se considera una mujer conservadora está dispuesta a probar nuevas sensaciones para poder pasar momentos especiales con su amado esposo
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+Se continuo con el Customer Journey Map
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+![customer-journey-map](https://user-images.githubusercontent.com/47748876/58079689-33174b00-7b77-11e9-846a-89519377bfd9.png)
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+Todas las herramientas nos sirvieron para lograr identificar uno de los problemas el cual fue:
 
-## Parte Obligatoria
+Los usuarios necesitan conocer los detalles del juguete para adulto para poder elegir acertadamente el de su preferencia y no se arrepienta de su compra.
 
-### 1) General
+Objetivos:
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Puedes usar Google Drive para guardar toda esta
-documentación y luego linkear las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
+Objetivo general
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
+Crear una página web que le sirva al usuario para conocer y comprar los productos que la tienda ofrece
 
-### 2) Entendimiento del problema
+Objetivos específicos: 
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
+- Visualizar la página web con los detalles de los productos.
+- Identificar de manera clara los productos que se encuentran en MiPlaza.com
+- visualizar los videos en los que se explica el uso de los productos.
 
-### 3) Planteamiento y validación de la solución
+Por lo antes mencionado, como solución se tiene lo siguiente 
 
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+Crear una página web amigable a fin de que los usuarios, puedan encontrar la descripción detallada de los productos que más les llaman la atención. incluyendo fotos y videos
 
-## Implementación
+Por último, se tuvo realizo el prototipo en baja fidelidad, se testeo y se mejoró las observaciones hechas por futuros usuarios, luego se procedió a realizar el prototipo de alta fidelidad, el cual fue testeado para luego realizar mínimas modificaciones, el producto final fue:
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
-* Estos 7 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **una vista como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-
-
-## Hacker edition
-
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-
-- Escribe un post en Medium contando tu proceso de investigación
+![WhatsApp Image 2019-05-21 at 03 42 50](https://user-images.githubusercontent.com/47748876/58081346-8c34ae00-7b7a-11e9-93f5-23454734df21.jpeg)
