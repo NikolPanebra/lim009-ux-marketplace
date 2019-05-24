@@ -129,7 +129,7 @@ Pueden acceder a este prototipo haciendo [click aquí](https://www.figma.com/pro
 
 ## 5) User testing
 
-Realizamos un [testeo de alta fidelidad](https://drive.google.com/open?id=15jFKtmbc9FFIlK8bpekgK1wKZi8vb4fG) a una futura usuaria con la tarea de "Comprar un vibrador". 
+Realizamos un [testeo de alta fidelidad](https://drive.google.com/open?id=15jFKtmbc9FFIlK8bpekgK1wKZi8vb4fG) a una futura usuaria con la tarea de "Comprar un vibrador"
 
 
 ## Demo Final
